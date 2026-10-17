@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# Hi 馃憢, I'm Sanha Azad
+# Hi 👋, I'm Sanha Azad
 ### B.Tech CSE Student | Cybersecurity & Digital Forensics Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanhaazad123-dotcom&color=blueviolet&style=flat-square)
@@ -9,17 +10,17 @@
 
 ---
 
-### 馃懇馃捇 About Me
+### 👩💻 About Me
 
-- 馃敪 **Currently working on:** Digital Evidence Integrity Checker
-- 馃攳 **Areas of Interest:** Digital Forensics, Cybersecurity, and Software Development
-- 馃尡 **Currently learning:** Python, Incident Analysis, and Core Computer Science fundamentals
-- 馃 **Looking to collaborate on:** Beginner-friendly digital forensics and security projects
-- 鈿� **Fun Fact:** Exploring how technology and data forensics can uncover critical digital evidence
+- 🔭 **Currently working on:** Digital Evidence Integrity Checker
+- 🔍 **Areas of Interest:** Digital Forensics, Cybersecurity, and Software Development
+- 🌱 **Currently learning:** Python, Incident Analysis, and Core Computer Science fundamentals
+- 🤝 **Looking to collaborate on:** Beginner-friendly digital forensics and security projects
+- ⚡ **Fun Fact:** Exploring how technology and data forensics can uncover critical digital evidence
 
 ---
 
-### 馃寪 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/Sanha Azad" target="_blank">
@@ -35,7 +36,7 @@
 
 ---
 
-### 馃洜锔� Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,linux,git,github,vscode&theme=dark" alt="Skills" />
@@ -43,7 +44,7 @@
 
 ---
 
-### 馃搳 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanhaazad123-dotcom&show_icons=true&theme=tokyonight&hide_border=true" alt="Sanha's GitHub Stats" />
